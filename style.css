@@ -16,7 +16,8 @@ header{
   background-color: grey;
   padding: 1rem;
   font-family: Arial, Helvetica, sans-serif;
-  *can you see this mark*
+  /* *can you see this mark* */
+  /* Hi Simon, does this work? */
 }
 
 body{
